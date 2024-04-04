@@ -27,6 +27,10 @@ After installing you can finally run the code in terminal by following command
 ```bash
   python run app.py
 ```
+You will see something like this when the python script runs
+
+![image](https://github.com/spectrathon/Neurons/assets/5381124/a4893db2-0a93-4f53-ab38-8b2cbdce04b1)
+
 
 ## Method to Add Extension to your Chrome Browser
 
